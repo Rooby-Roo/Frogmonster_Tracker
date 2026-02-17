@@ -1,0 +1,822 @@
+[
+    {
+        "name": "Dragonfly",
+        "type": "toggle",
+        "img": "images/items/dragonfly.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dragonfly"
+    },
+    {
+        "name": "Skater",
+        "type": "toggle",
+        "img": "images/items/skater.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "skater"
+    },
+    {
+        "name": "Soul Frog",
+        "type": "toggle",
+        "img": "images/items/soulfrog.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soulfrog"
+    },
+    {
+        "name": "Reeder Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/reedermyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reedermyzandupgrade"
+    },
+    {
+        "name": "Glowbug",
+        "type": "toggle",
+        "img": "images/items/glowbug.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "glowbug"
+    },
+    {
+        "name": "Bird",
+        "type": "toggle",
+        "img": "images/items/bird.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bird"
+    },
+    {
+        "name": "Tang",
+        "type": "toggle",
+        "img": "images/items/tang.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tang"
+    },
+    {
+        "name": "Runi Key",
+        "type": "toggle",
+        "img": "images/items/runikey.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "runikey"
+    },
+    {
+        "name": "Bug Slot",
+        "type": "toggle",
+        "img": "images/items/bugslot.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bugslot"
+    },
+    {
+        "name": "Square Rock",
+        "type": "toggle",
+        "img": "images/items/squarerock.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "squarerock"
+    },
+    {
+        "name": "Mantis",
+        "type": "toggle",
+        "img": "images/items/mantis.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mantis"
+    },
+    {
+        "name": "Slam",
+        "type": "toggle",
+        "img": "images/items/slam.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slam"
+    },
+    {
+        "name": "Turtle",
+        "type": "toggle",
+        "img": "images/items/turtle.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "turtle"
+    },
+    {
+        "name": "Mushroom",
+        "type": "toggle",
+        "img": "images/items/mushroom.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mushroom"
+    },
+    {
+        "name": "Wormy",
+        "type": "toggle",
+        "img": "images/items/wormy.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wormy"
+    },
+    {
+        "name": "Fog Fly",
+        "type": "toggle",
+        "img": "images/items/fogfly.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fogfly"
+    },
+    {
+        "name": "Crab",
+        "type": "toggle",
+        "img": "images/items/crab.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "crab"
+    },
+    {
+        "name": "Fire Fruit Juicer Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/firefruitjuicermyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firefruitjuicermyzandupgrade"
+    },
+    {
+        "name": "Eel Trophy",
+        "type": "toggle",
+        "img": "images/items/eeltrophy.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eeltrophy"
+    },
+    {
+        "name": "Magnet Roach",
+        "type": "toggle",
+        "img": "images/items/magnetroach.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "magnetroach"
+    },
+    {
+        "name": "Beet",
+        "type": "toggle",
+        "img": "images/items/beet.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beet"
+    },
+    {
+        "name": "Fireball",
+        "type": "toggle",
+        "img": "images/items/fireball.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fireball"
+    },
+    {
+        "name": "Frog",
+        "type": "toggle",
+        "img": "images/items/frog.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "frog"
+    },
+    {
+        "name": "Mushfrog",
+        "type": "toggle",
+        "img": "images/items/mushfrog.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mushfrog"
+    },
+    {
+        "name": "Puff",
+        "type": "toggle",
+        "img": "images/items/puff.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "puff"
+    },
+    {
+        "name": "Sharp Shot",
+        "type": "toggle",
+        "img": "images/items/sharpshot.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sharpshot"
+    },
+    {
+        "name": "Fire Fruit Juicer",
+        "type": "toggle",
+        "img": "images/items/firefruitjuicer.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "firefruitjuicer"
+    },
+    {
+        "name": "Health Shard",
+        "type": "toggle",
+        "img": "images/items/healthshard.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "healthshard"
+    },
+    {
+        "name": "Cricket",
+        "type": "toggle",
+        "img": "images/items/cricket.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cricket"
+    },
+    {
+        "name": "Moth",
+        "type": "toggle",
+        "img": "images/items/moth.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "moth"
+    },
+    {
+        "name": "Dash",
+        "type": "toggle",
+        "img": "images/items/dash.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dash"
+    },
+    {
+        "name": "Bridge Frog",
+        "type": "toggle",
+        "img": "images/items/bridgefrog.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bridgefrog"
+    },
+    {
+        "name": "Bass",
+        "type": "toggle",
+        "img": "images/items/bass.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bass"
+    },
+    {
+        "name": "Soul Fish",
+        "type": "toggle",
+        "img": "images/items/soulfish.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soulfish"
+    },
+    {
+        "name": "Minnow",
+        "type": "toggle",
+        "img": "images/items/minnow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "minnow"
+    },
+    {
+        "name": "Cicada",
+        "type": "toggle",
+        "img": "images/items/cicada.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cicada"
+    },
+    {
+        "name": "Roof Snail",
+        "type": "toggle",
+        "img": "images/items/roofsnail.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "roofsnail"
+    },
+    {
+        "name": "Key",
+        "type": "toggle",
+        "img": "images/items/key.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "key"
+    },
+    {
+        "name": "Mite",
+        "type": "toggle",
+        "img": "images/items/mite.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mite"
+    },
+    {
+        "name": "Purple Snack",
+        "type": "toggle",
+        "img": "images/items/purplesnack.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "purplesnack"
+    },
+    {
+        "name": "Smooth Stone",
+        "type": "toggle",
+        "img": "images/items/smoothstone.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "smoothstone"
+    },
+    {
+        "name": "Sparkling Gem",
+        "type": "toggle",
+        "img": "images/items/sparklinggem.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "sparklinggem"
+    },
+    {
+        "name": "Axolotl",
+        "type": "toggle",
+        "img": "images/items/axolotl.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "axolotl"
+    },
+    {
+        "name": "Sticky Hands",
+        "type": "toggle",
+        "img": "images/items/stickyhands.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stickyhands"
+    },
+    {
+        "name": "Blue Jelly",
+        "type": "toggle",
+        "img": "images/items/bluejelly.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bluejelly"
+    },
+    {
+        "name": "Wooden Cannon",
+        "type": "toggle",
+        "img": "images/items/woodencannon.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "woodencannon"
+    },
+    {
+        "name": "Orchus Key",
+        "type": "toggle",
+        "img": "images/items/orchuskey.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "orchuskey"
+    },
+    {
+        "name": "Coins",
+        "type": "toggle",
+        "img": "images/items/coins.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "coins"
+    },
+    {
+        "name": "Pecker",
+        "type": "toggle",
+        "img": "images/items/pecker.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pecker"
+    },
+    {
+        "name": "Mushroll",
+        "type": "toggle",
+        "img": "images/items/mushroll.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mushroll"
+    },
+    {
+        "name": "Metal Ore",
+        "type": "toggle",
+        "img": "images/items/metalore.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "metalore"
+    },
+    {
+        "name": "River Fish",
+        "type": "toggle",
+        "img": "images/items/riverfish.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "riverfish"
+    },
+    {
+        "name": "Spider",
+        "type": "toggle",
+        "img": "images/items/spider.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "spider"
+    },
+    {
+        "name": "Munchinator",
+        "type": "toggle",
+        "img": "images/items/munchinator.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "munchinator"
+    },
+    {
+        "name": "Weepwood Bow Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/weepwoodbowmyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weepwoodbowmyzandupgrade"
+    },
+    {
+        "name": "Tongue Swing",
+        "type": "toggle",
+        "img": "images/items/tongueswing.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "tongueswing"
+    },
+    {
+        "name": "Beans",
+        "type": "toggle",
+        "img": "images/items/beans.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beans"
+    },
+    {
+        "name": "Leafbug",
+        "type": "toggle",
+        "img": "images/items/leafbug.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leafbug"
+    },
+    {
+        "name": "Jungle Snack",
+        "type": "toggle",
+        "img": "images/items/junglesnack.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "junglesnack"
+    },
+    {
+        "name": "Finisher",
+        "type": "toggle",
+        "img": "images/items/finisher.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "finisher"
+    },
+    {
+        "name": "Zap",
+        "type": "toggle",
+        "img": "images/items/zap.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "zap"
+    },
+    {
+        "name": "Seedling Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/seedlingmyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "seedlingmyzandupgrade"
+    },
+    {
+        "name": "Gecko",
+        "type": "toggle",
+        "img": "images/items/gecko.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gecko"
+    },
+    {
+        "name": "Workshop Key",
+        "type": "toggle",
+        "img": "images/items/workshopkey.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "workshopkey"
+    },
+    {
+        "name": "Bee",
+        "type": "toggle",
+        "img": "images/items/bee.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bee"
+    },
+    {
+        "name": "Blue Snack",
+        "type": "toggle",
+        "img": "images/items/bluesnack.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bluesnack"
+    },
+    {
+        "name": "Reeder",
+        "type": "toggle",
+        "img": "images/items/reeder.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "reeder"
+    },
+    {
+        "name": "Weepwood Bow",
+        "type": "toggle",
+        "img": "images/items/weepwoodbow.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "weepwoodbow"
+    },
+    {
+        "name": "Eye Fragment",
+        "type": "toggle",
+        "img": "images/items/eyefragment.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eyefragment"
+    },
+    {
+        "name": "Fly",
+        "type": "toggle",
+        "img": "images/items/fly.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "fly"
+    },
+    {
+        "name": "Hive",
+        "type": "toggle",
+        "img": "images/items/hive.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "hive"
+    },
+    {
+        "name": "Dark Pebble",
+        "type": "toggle",
+        "img": "images/items/darkpebble.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "darkpebble"
+    },
+    {
+        "name": "Eel",
+        "type": "toggle",
+        "img": "images/items/eel.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "eel"
+    },
+    {
+        "name": "Finisher Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/finishermyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "finishermyzandupgrade"
+    },
+    {
+        "name": "Ammofly",
+        "type": "toggle",
+        "img": "images/items/ammofly.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ammofly"
+    },
+    {
+        "name": "Munchinator Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/munchinatormyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "munchinatormyzandupgrade"
+    },
+    {
+        "name": "Gatling Gun Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/gatlinggunmyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gatlinggunmyzandupgrade"
+    },
+    {
+        "name": "Mushbomb",
+        "type": "toggle",
+        "img": "images/items/mushbomb.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "mushbomb"
+    },
+    {
+        "name": "Gatling Gun",
+        "type": "toggle",
+        "img": "images/items/gatlinggun.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gatlinggun"
+    },
+    {
+        "name": "Wooden Cannon Myzand Upgrade",
+        "type": "toggle",
+        "img": "images/items/woodencannonmyzandupgrade.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "woodencannonmyzandupgrade"
+    },
+    {
+        "name": "Mana Shard",
+        "type": "toggle",
+        "img": "images/items/manashard.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "manashard"
+    },
+    {
+        "name": "Update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "img_mods": "",
+        "disabled_img": "",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]
