@@ -1,0 +1,1724 @@
+{
+  "game": "Frogmonster",
+  "tabs": [
+    {
+      "name": "Overworld",
+      "image": "images/1.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 581,
+          "y": 333,
+          "label": "2 locations",
+          "locations": [
+            "Bins' Workshop: Defeat Xoto",
+            "Bins' Workshop: Gift from Bins"
+          ],
+          "size": 16
+        },
+        {
+          "x": 383,
+          "y": 203,
+          "label": "3 locations",
+          "locations": [
+            "Cicada Cove: Defeat Tymbal",
+            "Cicada Cove: In the Red Ferns",
+            "Cicada Cove: Supo's Gatling Gun"
+          ],
+          "size": 16
+        },
+        {
+          "x": 405,
+          "y": 358,
+          "label": "17 locations",
+          "locations": [
+            "City: Behind Boxes in the Old House",
+            "City: Behind Breakable Door",
+            "City: Gift from Blue",
+            "City: Gift from Supa",
+            "City: Puzzle behind the Torches",
+            "City: Puzzle in the Box House",
+            "City: Save Boot from Really Lost Swamp",
+            "City: Save Newt from Thickness",
+            "City: Save Scoot from Treetops",
+            "City: Save Shoot from Hive",
+            "City: Wren's Shop (10 Bugs)",
+            "City: Wren's Shop (20 Bugs)",
+            "City: Wren's Shop (30 Bugs)",
+            "City: Wren's Shop (40 Bugs)",
+            "City: Wren's Shop (Key)",
+            "City: Wren's Shop (Mana 1)",
+            "City: Wren's Shop (Mana 2)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 810,
+          "y": 367,
+          "label": "4 locations",
+          "locations": [
+            "Deep: In Chomper Arena",
+            "Deep: Outside Krogar",
+            "Reef: Defeat Krogar & The Scavengers",
+            "Reef: In Whale-Shark Arena"
+          ],
+          "size": 16
+        },
+        {
+          "x": 941,
+          "y": 250,
+          "label": "3 locations",
+          "locations": [
+            "Drywood: After Zythida",
+            "Rootden: Before the Branching Path",
+            "Rootden: Defeat Zythida"
+          ],
+          "size": 16
+        },
+        {
+          "x": 445,
+          "y": 133,
+          "label": "9 locations",
+          "locations": [
+            "Estate: Behind Breakable Wall",
+            "Estate: Left Puzzle",
+            "Estate: Right Puzzle",
+            "Estate: Under the Pool",
+            "Fog Garden: Chest Behind Key",
+            "Fog Garden: Defeat Hedgeward",
+            "Fog Garden: Left Puzzle",
+            "Fog Garden: Right Puzzle",
+            "Fog Garden: Slam (Requires Key)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 247,
+          "y": 343,
+          "label": "4 locations",
+          "locations": [
+            "Forest Floor: At the Top of the Climbing Trees near City",
+            "Forest Floor: Defeat Chroma",
+            "Forest Floor: Defeat Mud",
+            "Forest Floor: Swinging Above the Toro Arena"
+          ],
+          "size": 16
+        },
+        {
+          "x": 619,
+          "y": 459,
+          "label": "4 locations",
+          "locations": [
+            "Green Sea: Chest Behind Key",
+            "Green Sea: Defeat Bog and Chog",
+            "Green Sea: Underwater Webs",
+            "Green Sea: Zap (Requires Key)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 689,
+          "y": 131,
+          "label": "2 locations",
+          "locations": [
+            "Hive: Defeat Foraz",
+            "Hive: Next to Tongue Swing Area"
+          ],
+          "size": 16
+        },
+        {
+          "x": 388,
+          "y": 538,
+          "label": "7 locations",
+          "locations": [
+            "Lost Swamp: After Blue",
+            "Lost Swamp: Blue's Shack",
+            "Lost Swamp: Defeat Groth",
+            "Lost Swamp: Fireball",
+            "Lost Swamp: Gift from Blue",
+            "Lost Swamp: Near Fireball",
+            "Lost Swamp: Underwater After Groth"
+          ],
+          "size": 16
+        },
+        {
+          "x": 197,
+          "y": 546,
+          "label": "7 locations",
+          "locations": [
+            "Marvin's Domain: Defeat Marvin",
+            "Marvin's Domain: Hidden Alcove near Mushfrog Pond",
+            "Marvin's Domain: Inside a Mushroom Tree",
+            "Marvin's Domain: Munchinator",
+            "Marvin's Domain: Mushbomb",
+            "Marvin's Domain: Poison Cloud Arena Lower Level",
+            "Marvin's Domain: Poison Cloud Arena Upper Level"
+          ],
+          "size": 16
+        },
+        {
+          "x": 838,
+          "y": 528,
+          "label": "4 locations",
+          "locations": [
+            "Moridono's Domain: Before Boss",
+            "Moridono's Domain: Before First Arena",
+            "Moridono's Domain: Defeat Moridono",
+            "Moridono's Domain: In Clearing Near Drills"
+          ],
+          "size": 16
+        },
+        {
+          "x": 499,
+          "y": 227,
+          "label": "4 locations",
+          "locations": [
+            "Old Road: Defeat Balsam",
+            "Old Road: Defeat Valda",
+            "Old Road: In Between Arenas",
+            "Old Road: Near First Save"
+          ],
+          "size": 16
+        },
+        {
+          "x": 587,
+          "y": 153,
+          "label": "1 locations",
+          "locations": [
+            "Old Wood: After Gorilla Arena"
+          ],
+          "size": 16
+        },
+        {
+          "x": 473,
+          "y": 646,
+          "label": "6 locations",
+          "locations": [
+            "Outskirts: After Second Arena",
+            "Outskirts: Defeat Borp",
+            "Outskirts: Defeat The Long Beast",
+            "Outskirts: In The Long Beast's Lair",
+            "Outskirts: Sharp Shot",
+            "Outskirts: Sticky Hands"
+          ],
+          "size": 16
+        },
+        {
+          "x": 1102,
+          "y": 379,
+          "label": "1 locations",
+          "locations": [
+            "Quarry: Invisible Chest"
+          ],
+          "size": 16
+        },
+        {
+          "x": 1114,
+          "y": 280,
+          "label": "4 locations",
+          "locations": [
+            "Temple: Closed-Off Chest",
+            "Temple: Defeat Door Crab",
+            "Temple: Defeat Lazaro",
+            "Temple: Invisible Chest after Door Crab"
+          ],
+          "size": 16
+        },
+        {
+          "x": 620,
+          "y": 211,
+          "label": "4 locations",
+          "locations": [
+            "Thickness: Before Djumbo",
+            "Thickness: Defeat Djumbo",
+            "Thickness: Hug the Left Wall",
+            "Thickness: Right Side of the Triple Split"
+          ],
+          "size": 16
+        },
+        {
+          "x": 252,
+          "y": 230,
+          "label": "2 locations",
+          "locations": [
+            "Treetops: Chest Behind Key",
+            "Treetops: Puff (Requires Key)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 550,
+          "y": 382,
+          "label": "2 locations",
+          "locations": [
+            "Under City: Behind Webs",
+            "Under City: Platforming Challenge"
+          ],
+          "size": 16
+        },
+        {
+          "x": 1118,
+          "y": 488,
+          "label": "4 locations",
+          "locations": [
+            "Under Under City: Barge Arena Platforming Challenge",
+            "Under Under City: Behind Webs",
+            "Under Under City: Defeat Barge",
+            "Under Under City: Upper Floor"
+          ],
+          "size": 16
+        },
+        {
+          "x": 579,
+          "y": 102,
+          "label": "5 locations",
+          "locations": [
+            "Well: Defeat Dekula",
+            "Well: First Floor",
+            "Well: Fourth Floor",
+            "Well: Seventh Floor",
+            "Well: Tenth Floor"
+          ],
+          "size": 16
+        },
+        {
+          "x": 437,
+          "y": 453,
+          "label": "13 locations",
+          "locations": [
+            "Yellow Forest: Above Chrom",
+            "Yellow Forest: Above Very Lost Swamp Entrance",
+            "Yellow Forest: Before Limbs",
+            "Yellow Forest: Cromb's Shop (Beans)",
+            "Yellow Forest: Cromb's Shop (Health 1)",
+            "Yellow Forest: Cromb's Shop (Health 2)",
+            "Yellow Forest: Cromb's Shop (Key)",
+            "Yellow Forest: Cromb's Shop (Metal Ore)",
+            "Yellow Forest: Defeat Limbs",
+            "Yellow Forest: Defeat Placeholder",
+            "Yellow Forest: Gift from Finley",
+            "Yellow Forest: In the Bamboo by Marvin Entrance",
+            "Yellow Forest: Puzzle in the Town"
+          ],
+          "size": 16
+        },
+        {
+          "x": 514,
+          "y": 542,
+          "label": "4 locations",
+          "locations": [
+            "Very Lost Swamp: Defeat Yanoy",
+            "Very Lost Swamp: Near Fishanny",
+            "Very Lost Swamp: Pillar Arena",
+            "Very Lost Swamp: Supo's Weepwood Bow"
+          ],
+          "size": 16
+        },
+        {
+          "x": 857,
+          "y": 410,
+          "label": "4 locations",
+          "locations": [
+            "Ridge: Behind the 6-Eye Door",
+            "Ridge: Defeat Oosk and Dord",
+            "Ridge: Defeat Runi",
+            "Ridge: Gift from Bins"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Bugs",
+      "image": "images/2.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 546,
+          "y": 169,
+          "locations": [
+            "Catch Ammofly"
+          ],
+          "size": 16
+        },
+        {
+          "x": 239,
+          "y": 455,
+          "locations": [
+            "Catch Axolotl"
+          ],
+          "size": 16
+        },
+        {
+          "x": 740,
+          "y": 71,
+          "locations": [
+            "Catch Bass"
+          ],
+          "size": 16
+        },
+        {
+          "x": 643,
+          "y": 456,
+          "locations": [
+            "Catch Bee"
+          ],
+          "size": 16
+        },
+        {
+          "x": 540,
+          "y": 73,
+          "locations": [
+            "Catch Beet"
+          ],
+          "size": 16
+        },
+        {
+          "x": 642,
+          "y": 71,
+          "locations": [
+            "Catch Bird"
+          ],
+          "size": 16
+        },
+        {
+          "x": 643,
+          "y": 262,
+          "locations": [
+            "Catch Blue Jelly"
+          ],
+          "size": 16
+        },
+        {
+          "x": 441,
+          "y": 168,
+          "locations": [
+            "Catch Blue Snack"
+          ],
+          "size": 16
+        },
+        {
+          "x": 343,
+          "y": 73,
+          "locations": [
+            "Catch Bridge Frog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 342,
+          "y": 158,
+          "locations": [
+            "Catch Cicada"
+          ],
+          "size": 16
+        },
+        {
+          "x": 343,
+          "y": 454,
+          "locations": [
+            "Catch Crab"
+          ],
+          "size": 16
+        },
+        {
+          "x": 46,
+          "y": 159,
+          "locations": [
+            "Catch Cricket"
+          ],
+          "size": 16
+        },
+        {
+          "x": 340,
+          "y": 358,
+          "locations": [
+            "Catch Dragonfly"
+          ],
+          "size": 16
+        },
+        {
+          "x": 244,
+          "y": 359,
+          "locations": [
+            "Catch Eel"
+          ],
+          "size": 16
+        },
+        {
+          "x": 45,
+          "y": 358,
+          "locations": [
+            "Catch Fly"
+          ],
+          "size": 16
+        },
+        {
+          "x": 544,
+          "y": 360,
+          "locations": [
+            "Catch Fog Fly"
+          ],
+          "size": 16
+        },
+        {
+          "x": 44,
+          "y": 75,
+          "locations": [
+            "Catch Frog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 445,
+          "y": 453,
+          "locations": [
+            "Catch Gecko"
+          ],
+          "size": 16
+        },
+        {
+          "x": 243,
+          "y": 159,
+          "locations": [
+            "Catch Glowbug"
+          ],
+          "size": 16
+        },
+        {
+          "x": 340,
+          "y": 273,
+          "locations": [
+            "Catch Jungle Snack"
+          ],
+          "size": 16
+        },
+        {
+          "x": 543,
+          "y": 454,
+          "locations": [
+            "Catch Leafbug"
+          ],
+          "size": 16
+        },
+        {
+          "x": 739,
+          "y": 359,
+          "locations": [
+            "Catch Magnet Roach"
+          ],
+          "size": 16
+        },
+        {
+          "x": 639,
+          "y": 169,
+          "locations": [
+            "Catch Mantis"
+          ],
+          "size": 16
+        },
+        {
+          "x": 739,
+          "y": 165,
+          "locations": [
+            "Catch Minnow"
+          ],
+          "size": 16
+        },
+        {
+          "x": 442,
+          "y": 273,
+          "locations": [
+            "Catch Mite"
+          ],
+          "size": 16
+        },
+        {
+          "x": 443,
+          "y": 358,
+          "locations": [
+            "Catch Moth"
+          ],
+          "size": 16
+        },
+        {
+          "x": 145,
+          "y": 74,
+          "locations": [
+            "Catch Mushfrog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 644,
+          "y": 357,
+          "locations": [
+            "Catch Mushroll"
+          ],
+          "size": 16
+        },
+        {
+          "x": 142,
+          "y": 270,
+          "locations": [
+            "Catch Mushroom"
+          ],
+          "size": 16
+        },
+        {
+          "x": 144,
+          "y": 455,
+          "locations": [
+            "Catch Pecker"
+          ],
+          "size": 16
+        },
+        {
+          "x": 242,
+          "y": 268,
+          "locations": [
+            "Catch Purple Snack"
+          ],
+          "size": 16
+        },
+        {
+          "x": 148,
+          "y": 361,
+          "locations": [
+            "Catch River Fish"
+          ],
+          "size": 16
+        },
+        {
+          "x": 544,
+          "y": 270,
+          "locations": [
+            "Catch Roof Snail"
+          ],
+          "size": 16
+        },
+        {
+          "x": 44,
+          "y": 453,
+          "locations": [
+            "Catch Skater"
+          ],
+          "size": 16
+        },
+        {
+          "x": 437,
+          "y": 71,
+          "locations": [
+            "Catch Soul Fish"
+          ],
+          "size": 16
+        },
+        {
+          "x": 242,
+          "y": 72,
+          "locations": [
+            "Catch Soul Frog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 739,
+          "y": 455,
+          "locations": [
+            "Catch Spider"
+          ],
+          "size": 16
+        },
+        {
+          "x": 742,
+          "y": 267,
+          "locations": [
+            "Catch Tang"
+          ],
+          "size": 16
+        },
+        {
+          "x": 148,
+          "y": 156,
+          "locations": [
+            "Catch Turtle"
+          ],
+          "size": 16
+        },
+        {
+          "x": 45,
+          "y": 267,
+          "locations": [
+            "Catch Wormy"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Lost Swamp",
+      "image": "images/3.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 437,
+          "y": 271,
+          "locations": [
+            "Lost Swamp: Defeat Groth"
+          ],
+          "size": 16
+        },
+        {
+          "x": 496,
+          "y": 237,
+          "label": "Blue's Shack",
+          "locations": [
+            "Catch Bass",
+            "Catch Glowbug",
+            "Lost Swamp: Blue's Shack"
+          ],
+          "size": 16
+        },
+        {
+          "x": 537,
+          "y": 289,
+          "label": "2 locations",
+          "locations": [
+            "Catch Crab",
+            "Lost Swamp: Fireball"
+          ],
+          "size": 16
+        },
+        {
+          "x": 514,
+          "y": 331,
+          "locations": [
+            "Lost Swamp: Near Fireball"
+          ],
+          "size": 16
+        },
+        {
+          "x": 695,
+          "y": 294,
+          "locations": [
+            "Lost Swamp: After Blue"
+          ],
+          "size": 16
+        },
+        {
+          "x": 619,
+          "y": 351,
+          "locations": [
+            "Lost Swamp: Gift from Blue"
+          ],
+          "size": 16
+        },
+        {
+          "x": 610,
+          "y": 567,
+          "locations": [
+            "Catch Frog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 609,
+          "y": 441,
+          "label": "2 locations",
+          "locations": [
+            "Catch Dragonfly",
+            "Catch Fly"
+          ],
+          "size": 16
+        },
+        {
+          "x": 312,
+          "y": 255,
+          "label": "Underwater After Groth",
+          "locations": [
+            "Catch Eel",
+            "Lost Swamp: Underwater After Groth"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Marvin's Domain",
+      "image": "images/4.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 611,
+          "y": 326,
+          "locations": [
+            "Marvin's Domain: Defeat Marvin"
+          ],
+          "size": 16
+        },
+        {
+          "x": 344,
+          "y": 244,
+          "locations": [
+            "Marvin's Domain: Hidden Alcove near Mushfrog Pond"
+          ],
+          "size": 16
+        },
+        {
+          "x": 334,
+          "y": 163,
+          "locations": [
+            "Marvin's Domain: Inside a Mushroom Tree"
+          ],
+          "size": 16
+        },
+        {
+          "x": 457,
+          "y": 156,
+          "locations": [
+            "Marvin's Domain: Munchinator"
+          ],
+          "size": 16
+        },
+        {
+          "x": 347,
+          "y": 457,
+          "locations": [
+            "Marvin's Domain: Mushbomb"
+          ],
+          "size": 16
+        },
+        {
+          "x": 763,
+          "y": 534,
+          "locations": [
+            "Marvin's Domain: Poison Cloud Arena Lower Level"
+          ],
+          "size": 16
+        },
+        {
+          "x": 809,
+          "y": 413,
+          "locations": [
+            "Marvin's Domain: Poison Cloud Arena Upper Level"
+          ],
+          "size": 16
+        },
+        {
+          "x": 479,
+          "y": 585,
+          "locations": [
+            "Catch Mushroll"
+          ],
+          "size": 16
+        },
+        {
+          "x": 323,
+          "y": 284,
+          "locations": [
+            "Catch Mushfrog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 469,
+          "y": 458,
+          "label": "2 locations",
+          "locations": [
+            "Catch Blue Snack",
+            "Catch Purple Snack"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Outskirts",
+      "image": "images/5.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 398,
+          "y": 541,
+          "locations": [
+            "Outskirts: After Second Arena"
+          ],
+          "size": 16
+        },
+        {
+          "x": 68,
+          "y": 585,
+          "locations": [
+            "Outskirts: Sticky Hands"
+          ],
+          "size": 16
+        },
+        {
+          "x": 250,
+          "y": 534,
+          "label": "The Long Beast's Arena",
+          "locations": [
+            "Outskirts: Defeat Borp",
+            "Outskirts: Defeat The Long Beast",
+            "Outskirts: In The Long Beast's Lair"
+          ],
+          "size": 16
+        },
+        {
+          "x": 533,
+          "y": 206,
+          "label": "3 locations",
+          "locations": [
+            "Catch Beet",
+            "Catch Fly",
+            "Outskirts: Sharp Shot"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Very Lost Swamp",
+      "image": "images/6.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 332,
+          "y": 369,
+          "label": "Yanoy",
+          "locations": [
+            "Very Lost Swamp: Defeat Yanoy",
+            "Very Lost Swamp: Supo's Weepwood Bow"
+          ],
+          "size": 16
+        },
+        {
+          "x": 441,
+          "y": 623,
+          "label": "Very Lost Swamp Bugs",
+          "locations": [
+            "Catch Frog",
+            "Catch Glowbug",
+            "Catch Skater"
+          ],
+          "size": 16
+        },
+        {
+          "x": 507,
+          "y": 494,
+          "locations": [
+            "City: Save Boot from Really Lost Swamp"
+          ],
+          "size": 16
+        },
+        {
+          "x": 612,
+          "y": 372,
+          "locations": [
+            "Very Lost Swamp: Pillar Arena"
+          ],
+          "size": 16
+        },
+        {
+          "x": 437,
+          "y": 247,
+          "label": "Underwater After Yanoy",
+          "locations": [
+            "Catch Eel",
+            "Very Lost Swamp: Near Fishanny"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Yellow Forest",
+      "image": "images/7.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 571,
+          "y": 112,
+          "label": "Chrom's Shop",
+          "locations": [
+            "Yellow Forest: Above Chrom",
+            "Yellow Forest: Cromb's Shop (Beans)",
+            "Yellow Forest: Cromb's Shop (Health 1)",
+            "Yellow Forest: Cromb's Shop (Health 2)",
+            "Yellow Forest: Cromb's Shop (Key)",
+            "Yellow Forest: Cromb's Shop (Metal Ore)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 265,
+          "y": 435,
+          "locations": [
+            "Yellow Forest: Above Very Lost Swamp Entrance"
+          ],
+          "size": 16
+        },
+        {
+          "x": 582,
+          "y": 201,
+          "locations": [
+            "Yellow Forest: Before Limbs"
+          ],
+          "size": 16
+        },
+        {
+          "x": 569,
+          "y": 152,
+          "locations": [
+            "Yellow Forest: Defeat Limbs"
+          ],
+          "size": 16
+        },
+        {
+          "x": 632,
+          "y": 380,
+          "locations": [
+            "Yellow Forest: Defeat Placeholder"
+          ],
+          "size": 16
+        },
+        {
+          "x": 571,
+          "y": 81,
+          "locations": [
+            "Yellow Forest: Gift from Finley"
+          ],
+          "size": 16
+        },
+        {
+          "x": 536,
+          "y": 644,
+          "locations": [
+            "Yellow Forest: In the Bamboo by Marvin Entrance"
+          ],
+          "size": 16
+        },
+        {
+          "x": 629,
+          "y": 112,
+          "locations": [
+            "Yellow Forest: Puzzle in the Town"
+          ],
+          "size": 16
+        },
+        {
+          "x": 320,
+          "y": 420,
+          "label": "Yellow Forest Bugs",
+          "locations": [
+            "Catch Bird",
+            "Catch Leafbug",
+            "Catch River Fish"
+          ],
+          "size": 16
+        },
+        {
+          "x": 583,
+          "y": 34,
+          "label": "At the Fishing Dock",
+          "locations": [
+            "Catch Bass",
+            "Catch Minnow",
+            "Catch Turtle"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Green Sea",
+      "image": "images/8.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 565,
+          "y": 588,
+          "locations": [
+            "Green Sea: Zap (Requires Key)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 508,
+          "y": 518,
+          "label": "Behind Key Door",
+          "locations": [
+            "Catch Blue Jelly",
+            "Green Sea: Chest Behind Key"
+          ],
+          "size": 16
+        },
+        {
+          "x": 548,
+          "y": 134,
+          "locations": [
+            "Catch Turtle"
+          ],
+          "size": 16
+        },
+        {
+          "x": 690,
+          "y": 486,
+          "locations": [
+            "Green Sea: Defeat Bog and Chog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 337,
+          "y": 636,
+          "locations": [
+            "Catch Minnow"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "City",
+      "image": "images/9.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 472,
+          "y": 445,
+          "label": "Bridge Bugs",
+          "locations": [
+            "Catch Bridge Frog",
+            "Catch Crab"
+          ],
+          "size": 16
+        },
+        {
+          "x": 659,
+          "y": 438,
+          "label": "Crossroads Bugs",
+          "locations": [
+            "Catch Cricket",
+            "Catch Frog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 729,
+          "y": 390,
+          "locations": [
+            "City: Behind Breakable Door"
+          ],
+          "size": 16
+        },
+        {
+          "x": 370,
+          "y": 446,
+          "locations": [
+            "City: Gift from Blue"
+          ],
+          "size": 16
+        },
+        {
+          "x": 552,
+          "y": 475,
+          "locations": [
+            "City: Puzzle behind the Torches"
+          ],
+          "size": 16
+        },
+        {
+          "x": 427,
+          "y": 466,
+          "label": "Wren's Shop",
+          "locations": [
+            "City: Wren's Shop (10 Bugs)",
+            "City: Wren's Shop (20 Bugs)",
+            "City: Wren's Shop (30 Bugs)",
+            "City: Wren's Shop (40 Bugs)",
+            "City: Wren's Shop (Key)",
+            "City: Wren's Shop (Mana 1)",
+            "City: Wren's Shop (Mana 2)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 333,
+          "y": 461,
+          "label": "2 locations",
+          "locations": [
+            "Cicada Cove: Supo's Gatling Gun",
+            "City: Gift from Supa"
+          ],
+          "size": 16
+        },
+        {
+          "x": 371,
+          "y": 491,
+          "label": "2 locations",
+          "locations": [
+            "City: Behind Boxes in the Old House",
+            "City: Puzzle in the Box House"
+          ],
+          "size": 16
+        },
+        {
+          "x": 667,
+          "y": 591,
+          "label": "Bins' Workshop",
+          "locations": [
+            "Bins' Workshop: Defeat Xoto",
+            "Bins' Workshop: Gift from Bins",
+            "Catch Blue Snack",
+            "Catch Wormy"
+          ],
+          "size": 16
+        },
+        {
+          "x": 426,
+          "y": 399,
+          "label": "Save The Bakers",
+          "locations": [
+            "City: Save Boot from Really Lost Swamp",
+            "City: Save Newt from Thickness",
+            "City: Save Scoot from Treetops",
+            "City: Save Shoot from Hive"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Under City",
+      "image": "images/10.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 295,
+          "y": 428,
+          "locations": [
+            "Under City: Behind Webs"
+          ],
+          "size": 16
+        },
+        {
+          "x": 269,
+          "y": 525,
+          "locations": [
+            "Under City: Platforming Challenge"
+          ],
+          "size": 16
+        },
+        {
+          "x": 375,
+          "y": 382,
+          "locations": [
+            "Catch Crab"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Forest Floor",
+      "image": "images/11.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 412,
+          "y": 644,
+          "label": "Bugs in the Water",
+          "locations": [
+            "Catch Bass",
+            "Catch Minnow",
+            "Catch Skater"
+          ],
+          "size": 16
+        },
+        {
+          "x": 412,
+          "y": 592,
+          "label": "Bugs before the Trees",
+          "locations": [
+            "Catch Jungle Snack",
+            "Catch Mantis"
+          ],
+          "size": 16
+        },
+        {
+          "x": 358,
+          "y": 520,
+          "locations": [
+            "Forest Floor: At the Top of the Climbing Trees near City"
+          ],
+          "size": 16
+        },
+        {
+          "x": 598,
+          "y": 180,
+          "label": "Above the Toro",
+          "locations": [
+            "Catch Gecko",
+            "Forest Floor: Swinging Above the Toro Arena"
+          ],
+          "size": 16
+        },
+        {
+          "x": 711,
+          "y": 158,
+          "label": "Chroma's Arena",
+          "locations": [
+            "Forest Floor: Defeat Chroma",
+            "Forest Floor: Defeat Mud"
+          ],
+          "size": 16
+        },
+        {
+          "x": 647,
+          "y": 135,
+          "label": "Butterflies Outside Chroma's Arena",
+          "locations": [
+            "Catch Blue Snack",
+            "Catch Jungle Snack",
+            "Catch Purple Snack"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Treetops",
+      "image": "images/12.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 512,
+          "y": 491,
+          "locations": [
+            "Cicada Cove: In the Red Ferns"
+          ],
+          "size": 16
+        },
+        {
+          "x": 549,
+          "y": 392,
+          "label": "Bugs Flying Among the Trees",
+          "locations": [
+            "Catch Dragonfly",
+            "Catch Jungle Snack",
+            "Catch Purple Snack"
+          ],
+          "size": 16
+        },
+        {
+          "x": 514,
+          "y": 441,
+          "locations": [
+            "Catch Cicada"
+          ],
+          "size": 16
+        },
+        {
+          "x": 361,
+          "y": 265,
+          "label": "Bugs in the Flower Arena",
+          "locations": [
+            "Catch Gecko",
+            "Catch Mushfrog"
+          ],
+          "size": 16
+        },
+        {
+          "x": 446,
+          "y": 166,
+          "locations": [
+            "City: Save Scoot from Treetops"
+          ],
+          "size": 16
+        },
+        {
+          "x": 322,
+          "y": 437,
+          "locations": [
+            "Treetops: Puff (Requires Key)"
+          ],
+          "size": 16
+        },
+        {
+          "x": 311,
+          "y": 341,
+          "locations": [
+            "Treetops: Chest Behind Key"
+          ],
+          "size": 16
+        },
+        {
+          "x": 248,
+          "y": 259,
+          "locations": [
+            "Catch Ammofly"
+          ],
+          "size": 16
+        },
+        {
+          "x": 138,
+          "y": 248,
+          "label": "Runi Fight",
+          "locations": [
+            "Ridge: Defeat Runi",
+            "Ridge: Gift from Bins"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Hive",
+      "image": "images/13.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 519,
+          "y": 301,
+          "locations": [
+            "Catch Bee"
+          ],
+          "size": 16
+        },
+        {
+          "x": 592,
+          "y": 254,
+          "locations": [
+            "Hive: Next to Tongue Swing Area"
+          ],
+          "size": 16
+        },
+        {
+          "x": 552,
+          "y": 420,
+          "locations": [
+            "Hive: Defeat Foraz"
+          ],
+          "size": 16
+        },
+        {
+          "x": 509,
+          "y": 449,
+          "locations": [
+            "City: Save Shoot from Hive"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Old Road",
+      "image": "images/14.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 406,
+          "y": 484,
+          "locations": [
+            "Catch Spider"
+          ],
+          "size": 16
+        },
+        {
+          "x": 397,
+          "y": 448,
+          "locations": [
+            "Catch Moth"
+          ],
+          "size": 16
+        },
+        {
+          "x": 450,
+          "y": 424,
+          "locations": [
+            "Old Road: Near First Save"
+          ],
+          "size": 16
+        },
+        {
+          "x": 324,
+          "y": 310,
+          "locations": [
+            "Old Road: In Between Arenas"
+          ],
+          "size": 16
+        },
+        {
+          "x": 444,
+          "y": 329,
+          "label": "2 locations",
+          "locations": [
+            "Old Road: Defeat Balsam",
+            "Old Road: Defeat Valda"
+          ],
+          "size": 16
+        },
+        {
+          "x": 401,
+          "y": 410,
+          "label": "Bugs in First Arena",
+          "locations": [
+            "Catch Cricket",
+            "Catch Roof Snail"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Old Wood",
+      "image": "images/15.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 619,
+          "y": 558,
+          "locations": [
+            "Catch Cricket"
+          ],
+          "size": 16
+        },
+        {
+          "x": 541,
+          "y": 473,
+          "label": "Bugs on the Thorn Path",
+          "locations": [
+            "Catch Ammofly",
+            "Catch Moth",
+            "Catch Roof Snail"
+          ],
+          "size": 16
+        },
+        {
+          "x": 609,
+          "y": 360,
+          "locations": [
+            "Old Wood: After Gorilla Arena"
+          ],
+          "size": 16
+        },
+        {
+          "x": 349,
+          "y": 200,
+          "locations": [
+            "Catch Spider"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Thickness",
+      "image": "images/16.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 312,
+          "y": 446,
+          "locations": [
+            "Catch Pecker"
+          ],
+          "size": 16
+        },
+        {
+          "x": 419,
+          "y": 488,
+          "locations": [
+            "City: Save Newt from Thickness"
+          ],
+          "size": 16
+        },
+        {
+          "x": 605,
+          "y": 267,
+          "locations": [
+            "Thickness: Before Djumbo"
+          ],
+          "size": 16
+        },
+        {
+          "x": 730,
+          "y": 255,
+          "locations": [
+            "Thickness: Defeat Djumbo"
+          ],
+          "size": 16
+        },
+        {
+          "x": 254,
+          "y": 112,
+          "locations": [
+            "Thickness: Hug the Left Wall"
+          ],
+          "size": 16
+        },
+        {
+          "x": 435,
+          "y": 280,
+          "locations": [
+            "Thickness: Right Side of the Triple Split"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Well",
+      "image": "images/17.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 435,
+          "y": 206,
+          "locations": [
+            "Well: First Floor"
+          ],
+          "size": 16
+        },
+        {
+          "x": 717,
+          "y": 343,
+          "locations": [
+            "Well: Fourth Floor"
+          ],
+          "size": 16
+        },
+        {
+          "x": 509,
+          "y": 477,
+          "locations": [
+            "Well: Seventh Floor"
+          ],
+          "size": 16
+        },
+        {
+          "x": 662,
+          "y": 410,
+          "locations": [
+            "Well: Tenth Floor"
+          ],
+          "size": 16
+        },
+        {
+          "x": 93,
+          "y": 228,
+          "locations": [
+            "Catch Beet"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Estate",
+      "image": "images/18.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 315,
+          "y": 664,
+          "locations": [
+            "Estate: Behind Breakable Wall"
+          ],
+          "size": 16
+        },
+        {
+          "x": 308,
+          "y": 371,
+          "locations": [
+            "Estate: Left Puzzle"
+          ],
+          "size": 16
+        },
+        {
+          "x": 600,
+          "y": 373,
+          "locations": [
+            "Estate: Right Puzzle"
+          ],
+          "size": 16
+        },
+        {
+          "x": 453,
+          "y": 536,
+          "locations": [
+            "Estate: Under the Pool"
+          ],
+          "size": 16
+        },
+        {
+          "x": 667,
+          "y": 462,
+          "locations": [
+            "Catch Cricket"
+          ],
+          "size": 16
+        }
+      ]
+    },
+    {
+      "name": "Fog Garden",
+      "image": "images/19.png",
+      "location_size": 32,
+      "markers": [
+        {
+          "x": 479,
+          "y": 545,
+          "label": "Bugs near the Warp",
+          "locations": [
+            "Catch Ammofly",
+            "Catch Fog Fly",
+            "Catch Moth"
+          ],
+          "size": 16
+        },
+        {
+          "x": 838,
+          "y": 389,
+          "locations": [
+            "Fog Garden: Chest Behind Key"
+          ],
+          "size": 16
+        },
+        {
+          "x": 483,
+          "y": 106,
+          "locations": [
+            "Fog Garden: Defeat Hedgeward"
+          ],
+          "size": 16
+        },
+        {
+          "x": 339,
+          "y": 447,
+          "locations": [
+            "Fog Garden: Left Puzzle"
+          ],
+          "size": 16
+        },
+        {
+          "x": 337,
+          "y": 376,
+          "locations": [
+            "Fog Garden: Right Puzzle"
+          ],
+          "size": 16
+        },
+        {
+          "x": 873,
+          "y": 380,
+          "locations": [
+            "Fog Garden: Slam (Requires Key)"
+          ],
+          "size": 16
+        }
+      ]
+    }
+  ]
+}
